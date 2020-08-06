@@ -10,7 +10,7 @@ Visual debugging tool eruda
 <script>eruda.init();</script>
 
 ```
-or you can download to local using like index.html in this project.
+or you can download it to local, using like index.html in this project.
 
 ```
 
@@ -21,3 +21,9 @@ or you can download to local using like index.html in this project.
 ```
 
 ### certainly, you can init eruda anywhere in your project
+
+```
+
+eruda.init();
+
+```
